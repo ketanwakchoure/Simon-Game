@@ -1,6 +1,6 @@
 # Simon-Game
 
-Play Game by clicking the link given below :
+Play Game by clicking the  given link:
    https://ketanwakchoure.github.io/Simon-Game/
    
 Simon Game made with HTML, CSS ,Java Script.
